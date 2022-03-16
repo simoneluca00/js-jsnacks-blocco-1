@@ -5,11 +5,10 @@ let somma = 0;
 
 for (i = 1; i <= 10; i++) {
     let numeri = parseInt(prompt("Inserisci un numero"));
-    // numeri += numeri;
     somma += numeri; 
 
     if(isNaN(numeri)) {
-        alert("Devi inserire valori numerici.")
+        alert("Devi inserire valori numerici. Ricarica la pagina e riprova.")
     }
 }
 
