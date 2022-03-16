@@ -1,3 +1,7 @@
+// snack 1:
+// L’utente inserisce due numeri in successione, con due prompt.
+// Il software stampa il maggiore.
+
 let numeroUno = parseInt(prompt("Inserisci un numero"));
 let numeroDue = parseInt(prompt("Inserisci un ulteriore numero"));
 let risultato = document.getElementById("container_number");
