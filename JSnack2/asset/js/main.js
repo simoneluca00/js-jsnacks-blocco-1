@@ -1,4 +1,6 @@
-// FARE AL CONTRARIO
+// snack 2
+// L’utente inserisce due parole in successione, con due prompt.
+// Il software stampa prima la parola più corta, poi la parola più lunga.
 
 let parolaUno = prompt("Inserisci una parola");
 let parolaDue = prompt("Inserisci un'ulteriore parola");
